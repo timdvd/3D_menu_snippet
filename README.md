@@ -11,6 +11,9 @@ Technologies Used:
  - CSS3: Advanced styling with animations and transitions.
  - JavaScript: Adds interactivity and dynamic effects.
 
+You may clone repository with this command: 
+git clone https://github.com/timdvd/3D_menu_snippet.git 
+
 Preview:
 https://timdvd.github.io/3D_menu_snippet/
 
