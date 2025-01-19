@@ -12,10 +12,10 @@ Technologies Used:
  - JavaScript: Adds interactivity and dynamic effects.
 
 You may clone repository with this command: 
-git clone https://github.com/timdvd/3D_menu_snippet.git 
+git clone https://github.com/timdvd/3D_menu_widget.git 
 
 Preview:
-https://timdvd.github.io/3D_menu_snippet/
+https://timdvd.github.io/3D_menu_widget/
 
 Screenshots:
 ![Screenshot 2025-01-16 221516](https://github.com/user-attachments/assets/d1eb8e0c-9625-44a2-86ed-a5bb16fe19fa)
